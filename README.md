@@ -1,1 +1,1 @@
-# javascrpt-calculator
+# javascript-calculator
